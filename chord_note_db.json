@@ -1,0 +1,1684 @@
+{
+    "chords": {
+        "E": {
+            "id": "E",
+            "displayName": "E Major",
+            "type": "Major",
+            "notes": [
+                "E",
+                "G#",
+                "B"
+            ]
+        },
+        "Em": {
+            "id": "Em",
+            "displayName": "E Minor",
+            "type": "Minor",
+            "notes": [
+                "E",
+                "G",
+                "B"
+            ]
+        },
+        "Edim": {
+            "id": "Edim",
+            "displayName": "E Diminished",
+            "type": "Diminished",
+            "notes": [
+                "E",
+                "G",
+                "A#"
+            ]
+        },
+        "Eaug": {
+            "id": "Eaug",
+            "displayName": "E Augmented",
+            "type": "Augmented",
+            "notes": [
+                "E",
+                "G#",
+                "C"
+            ]
+        },
+        "Emaj7": {
+            "id": "Emaj7",
+            "displayName": "E Major 7th",
+            "type": "Major 7th",
+            "notes": [
+                "E",
+                "G#",
+                "B",
+                "D#"
+            ]
+        },
+        "Emin7": {
+            "id": "Emin7",
+            "displayName": "E Minor 7th",
+            "type": "Minor 7th",
+            "notes": [
+                "E",
+                "G",
+                "B",
+                "D"
+            ]
+        },
+        "E7": {
+            "id": "E7",
+            "displayName": "E Dominant 7th",
+            "type": "Dominant 7th",
+            "notes": [
+                "E",
+                "G#",
+                "B",
+                "D"
+            ]
+        },
+        "Esus2": {
+            "id": "Esus2",
+            "displayName": "E Sus2",
+            "type": "Sus2",
+            "notes": [
+                "E",
+                "F#",
+                "B"
+            ]
+        },
+        "Esus4": {
+            "id": "Esus4",
+            "displayName": "E Sus4",
+            "type": "Sus4",
+            "notes": [
+                "E",
+                "A",
+                "B"
+            ]
+        },
+        "Edim7": {
+            "id": "Edim7",
+            "displayName": "E Diminished 7th",
+            "type": "Diminished 7th",
+            "notes": [
+                "E",
+                "G",
+                "A#",
+                "C#"
+            ]
+        },
+        "Emaj9": {
+            "id": "Emaj9",
+            "displayName": "E Major 9th",
+            "type": "Major 9th",
+            "notes": [
+                "E",
+                "G#",
+                "B",
+                "D#",
+                "F#"
+            ]
+        },
+        "Emin9": {
+            "id": "Emin9",
+            "displayName": "E Minor 9th",
+            "type": "Minor 9th",
+            "notes": [
+                "E",
+                "G",
+                "B",
+                "D",
+                "F"
+            ]
+        },
+        "E9": {
+            "id": "E9",
+            "displayName": "E Dominant 9th",
+            "type": "Dominant 9th",
+            "notes": [
+                "E",
+                "G#",
+                "B",
+                "D",
+                "F#"
+            ]
+        },
+        "F": {
+            "id": "F",
+            "displayName": "F Major",
+            "type": "Major",
+            "notes": [
+                "F",
+                "A",
+                "C"
+            ]
+        },
+        "Fm": {
+            "id": "Fm",
+            "displayName": "F Minor",
+            "type": "Minor",
+            "notes": [
+                "F",
+                "G#",
+                "C"
+            ]
+        },
+        "Fdim": {
+            "id": "Fdim",
+            "displayName": "F Diminished",
+            "type": "Diminished",
+            "notes": [
+                "F",
+                "G#",
+                "B"
+            ]
+        },
+        "Faug": {
+            "id": "Faug",
+            "displayName": "F Augmented",
+            "type": "Augmented",
+            "notes": [
+                "F",
+                "A",
+                "C#"
+            ]
+        },
+        "Fmaj7": {
+            "id": "Fmaj7",
+            "displayName": "F Major 7th",
+            "type": "Major 7th",
+            "notes": [
+                "F",
+                "A",
+                "C",
+                "E"
+            ]
+        },
+        "Fmin7": {
+            "id": "Fmin7",
+            "displayName": "F Minor 7th",
+            "type": "Minor 7th",
+            "notes": [
+                "F",
+                "G#",
+                "C",
+                "D#"
+            ]
+        },
+        "F7": {
+            "id": "F7",
+            "displayName": "F Dominant 7th",
+            "type": "Dominant 7th",
+            "notes": [
+                "F",
+                "A",
+                "C",
+                "D#"
+            ]
+        },
+        "Fsus2": {
+            "id": "Fsus2",
+            "displayName": "F Sus2",
+            "type": "Sus2",
+            "notes": [
+                "F",
+                "G",
+                "C"
+            ]
+        },
+        "Fsus4": {
+            "id": "Fsus4",
+            "displayName": "F Sus4",
+            "type": "Sus4",
+            "notes": [
+                "F",
+                "A#",
+                "C"
+            ]
+        },
+        "Fdim7": {
+            "id": "Fdim7",
+            "displayName": "F Diminished 7th",
+            "type": "Diminished 7th",
+            "notes": [
+                "F",
+                "G#",
+                "B",
+                "D"
+            ]
+        },
+        "Fmaj9": {
+            "id": "Fmaj9",
+            "displayName": "F Major 9th",
+            "type": "Major 9th",
+            "notes": [
+                "F",
+                "A",
+                "C",
+                "E",
+                "G"
+            ]
+        },
+        "Fmin9": {
+            "id": "Fmin9",
+            "displayName": "F Minor 9th",
+            "type": "Minor 9th",
+            "notes": [
+                "F",
+                "G#",
+                "C",
+                "D#",
+                "F#"
+            ]
+        },
+        "F9": {
+            "id": "F9",
+            "displayName": "F Dominant 9th",
+            "type": "Dominant 9th",
+            "notes": [
+                "F",
+                "A",
+                "C",
+                "D#",
+                "G"
+            ]
+        },
+        "F#": {
+            "id": "F#",
+            "displayName": "F# Major",
+            "type": "Major",
+            "notes": [
+                "F#",
+                "A#",
+                "C#"
+            ]
+        },
+        "F#m": {
+            "id": "F#m",
+            "displayName": "F# Minor",
+            "type": "Minor",
+            "notes": [
+                "F#",
+                "A",
+                "C#"
+            ]
+        },
+        "F#dim": {
+            "id": "F#dim",
+            "displayName": "F# Diminished",
+            "type": "Diminished",
+            "notes": [
+                "F#",
+                "A",
+                "C"
+            ]
+        },
+        "F#aug": {
+            "id": "F#aug",
+            "displayName": "F# Augmented",
+            "type": "Augmented",
+            "notes": [
+                "F#",
+                "A#",
+                "D"
+            ]
+        },
+        "F#maj7": {
+            "id": "F#maj7",
+            "displayName": "F# Major 7th",
+            "type": "Major 7th",
+            "notes": [
+                "F#",
+                "A#",
+                "C#",
+                "F"
+            ]
+        },
+        "F#min7": {
+            "id": "F#min7",
+            "displayName": "F# Minor 7th",
+            "type": "Minor 7th",
+            "notes": [
+                "F#",
+                "A",
+                "C#",
+                "E"
+            ]
+        },
+        "F#7": {
+            "id": "F#7",
+            "displayName": "F# Dominant 7th",
+            "type": "Dominant 7th",
+            "notes": [
+                "F#",
+                "A#",
+                "C#",
+                "E"
+            ]
+        },
+        "F#sus2": {
+            "id": "F#sus2",
+            "displayName": "F# Sus2",
+            "type": "Sus2",
+            "notes": [
+                "F#",
+                "G#",
+                "C#"
+            ]
+        },
+        "F#sus4": {
+            "id": "F#sus4",
+            "displayName": "F# Sus4",
+            "type": "Sus4",
+            "notes": [
+                "F#",
+                "B",
+                "C#"
+            ]
+        },
+        "F#dim7": {
+            "id": "F#dim7",
+            "displayName": "F# Diminished 7th",
+            "type": "Diminished 7th",
+            "notes": [
+                "F#",
+                "A",
+                "C",
+                "D#"
+            ]
+        },
+        "F#maj9": {
+            "id": "F#maj9",
+            "displayName": "F# Major 9th",
+            "type": "Major 9th",
+            "notes": [
+                "F#",
+                "A#",
+                "C#",
+                "F",
+                "G#"
+            ]
+        },
+        "F#min9": {
+            "id": "F#min9",
+            "displayName": "F# Minor 9th",
+            "type": "Minor 9th",
+            "notes": [
+                "F#",
+                "A",
+                "C#",
+                "E",
+                "G"
+            ]
+        },
+        "F#9": {
+            "id": "F#9",
+            "displayName": "F# Dominant 9th",
+            "type": "Dominant 9th",
+            "notes": [
+                "F#",
+                "A#",
+                "C#",
+                "E",
+                "G#"
+            ]
+        },
+        "G": {
+            "id": "G",
+            "displayName": "G Major",
+            "type": "Major",
+            "notes": [
+                "G",
+                "B",
+                "D"
+            ]
+        },
+        "Gm": {
+            "id": "Gm",
+            "displayName": "G Minor",
+            "type": "Minor",
+            "notes": [
+                "G",
+                "A#",
+                "D"
+            ]
+        },
+        "Gdim": {
+            "id": "Gdim",
+            "displayName": "G Diminished",
+            "type": "Diminished",
+            "notes": [
+                "G",
+                "A#",
+                "C#"
+            ]
+        },
+        "Gaug": {
+            "id": "Gaug",
+            "displayName": "G Augmented",
+            "type": "Augmented",
+            "notes": [
+                "G",
+                "B",
+                "D#"
+            ]
+        },
+        "Gmaj7": {
+            "id": "Gmaj7",
+            "displayName": "G Major 7th",
+            "type": "Major 7th",
+            "notes": [
+                "G",
+                "B",
+                "D",
+                "F#"
+            ]
+        },
+        "Gmin7": {
+            "id": "Gmin7",
+            "displayName": "G Minor 7th",
+            "type": "Minor 7th",
+            "notes": [
+                "G",
+                "A#",
+                "D",
+                "F"
+            ]
+        },
+        "G7": {
+            "id": "G7",
+            "displayName": "G Dominant 7th",
+            "type": "Dominant 7th",
+            "notes": [
+                "G",
+                "B",
+                "D",
+                "F"
+            ]
+        },
+        "Gsus2": {
+            "id": "Gsus2",
+            "displayName": "G Sus2",
+            "type": "Sus2",
+            "notes": [
+                "G",
+                "A",
+                "D"
+            ]
+        },
+        "Gsus4": {
+            "id": "Gsus4",
+            "displayName": "G Sus4",
+            "type": "Sus4",
+            "notes": [
+                "G",
+                "C",
+                "D"
+            ]
+        },
+        "Gdim7": {
+            "id": "Gdim7",
+            "displayName": "G Diminished 7th",
+            "type": "Diminished 7th",
+            "notes": [
+                "G",
+                "A#",
+                "C#",
+                "E"
+            ]
+        },
+        "Gmaj9": {
+            "id": "Gmaj9",
+            "displayName": "G Major 9th",
+            "type": "Major 9th",
+            "notes": [
+                "G",
+                "B",
+                "D",
+                "F#",
+                "A"
+            ]
+        },
+        "Gmin9": {
+            "id": "Gmin9",
+            "displayName": "G Minor 9th",
+            "type": "Minor 9th",
+            "notes": [
+                "G",
+                "A#",
+                "D",
+                "F",
+                "G#"
+            ]
+        },
+        "G9": {
+            "id": "G9",
+            "displayName": "G Dominant 9th",
+            "type": "Dominant 9th",
+            "notes": [
+                "G",
+                "B",
+                "D",
+                "F",
+                "A"
+            ]
+        },
+        "G#": {
+            "id": "G#",
+            "displayName": "G# Major",
+            "type": "Major",
+            "notes": [
+                "G#",
+                "C",
+                "D#"
+            ]
+        },
+        "G#m": {
+            "id": "G#m",
+            "displayName": "G# Minor",
+            "type": "Minor",
+            "notes": [
+                "G#",
+                "B",
+                "D#"
+            ]
+        },
+        "G#dim": {
+            "id": "G#dim",
+            "displayName": "G# Diminished",
+            "type": "Diminished",
+            "notes": [
+                "G#",
+                "B",
+                "D"
+            ]
+        },
+        "G#aug": {
+            "id": "G#aug",
+            "displayName": "G# Augmented",
+            "type": "Augmented",
+            "notes": [
+                "G#",
+                "C",
+                "E"
+            ]
+        },
+        "G#maj7": {
+            "id": "G#maj7",
+            "displayName": "G# Major 7th",
+            "type": "Major 7th",
+            "notes": [
+                "G#",
+                "C",
+                "D#",
+                "G"
+            ]
+        },
+        "G#min7": {
+            "id": "G#min7",
+            "displayName": "G# Minor 7th",
+            "type": "Minor 7th",
+            "notes": [
+                "G#",
+                "B",
+                "D#",
+                "F#"
+            ]
+        },
+        "G#7": {
+            "id": "G#7",
+            "displayName": "G# Dominant 7th",
+            "type": "Dominant 7th",
+            "notes": [
+                "G#",
+                "C",
+                "D#",
+                "F#"
+            ]
+        },
+        "G#sus2": {
+            "id": "G#sus2",
+            "displayName": "G# Sus2",
+            "type": "Sus2",
+            "notes": [
+                "G#",
+                "A#",
+                "D#"
+            ]
+        },
+        "G#sus4": {
+            "id": "G#sus4",
+            "displayName": "G# Sus4",
+            "type": "Sus4",
+            "notes": [
+                "G#",
+                "C#",
+                "D#"
+            ]
+        },
+        "G#dim7": {
+            "id": "G#dim7",
+            "displayName": "G# Diminished 7th",
+            "type": "Diminished 7th",
+            "notes": [
+                "G#",
+                "B",
+                "D",
+                "F"
+            ]
+        },
+        "G#maj9": {
+            "id": "G#maj9",
+            "displayName": "G# Major 9th",
+            "type": "Major 9th",
+            "notes": [
+                "G#",
+                "C",
+                "D#",
+                "G",
+                "A#"
+            ]
+        },
+        "G#min9": {
+            "id": "G#min9",
+            "displayName": "G# Minor 9th",
+            "type": "Minor 9th",
+            "notes": [
+                "G#",
+                "B",
+                "D#",
+                "F#",
+                "A"
+            ]
+        },
+        "G#9": {
+            "id": "G#9",
+            "displayName": "G# Dominant 9th",
+            "type": "Dominant 9th",
+            "notes": [
+                "G#",
+                "C",
+                "D#",
+                "F#",
+                "A#"
+            ]
+        },
+        "A": {
+            "id": "A",
+            "displayName": "A Major",
+            "type": "Major",
+            "notes": [
+                "A",
+                "C#",
+                "E"
+            ]
+        },
+        "Am": {
+            "id": "Am",
+            "displayName": "A Minor",
+            "type": "Minor",
+            "notes": [
+                "A",
+                "C",
+                "E"
+            ]
+        },
+        "Adim": {
+            "id": "Adim",
+            "displayName": "A Diminished",
+            "type": "Diminished",
+            "notes": [
+                "A",
+                "C",
+                "D#"
+            ]
+        },
+        "Aaug": {
+            "id": "Aaug",
+            "displayName": "A Augmented",
+            "type": "Augmented",
+            "notes": [
+                "A",
+                "C#",
+                "F"
+            ]
+        },
+        "Amaj7": {
+            "id": "Amaj7",
+            "displayName": "A Major 7th",
+            "type": "Major 7th",
+            "notes": [
+                "A",
+                "C#",
+                "E",
+                "G#"
+            ]
+        },
+        "Amin7": {
+            "id": "Amin7",
+            "displayName": "A Minor 7th",
+            "type": "Minor 7th",
+            "notes": [
+                "A",
+                "C",
+                "E",
+                "G"
+            ]
+        },
+        "A7": {
+            "id": "A7",
+            "displayName": "A Dominant 7th",
+            "type": "Dominant 7th",
+            "notes": [
+                "A",
+                "C#",
+                "E",
+                "G"
+            ]
+        },
+        "Asus2": {
+            "id": "Asus2",
+            "displayName": "A Sus2",
+            "type": "Sus2",
+            "notes": [
+                "A",
+                "B",
+                "E"
+            ]
+        },
+        "Asus4": {
+            "id": "Asus4",
+            "displayName": "A Sus4",
+            "type": "Sus4",
+            "notes": [
+                "A",
+                "D",
+                "E"
+            ]
+        },
+        "Adim7": {
+            "id": "Adim7",
+            "displayName": "A Diminished 7th",
+            "type": "Diminished 7th",
+            "notes": [
+                "A",
+                "C",
+                "D#",
+                "F#"
+            ]
+        },
+        "Amaj9": {
+            "id": "Amaj9",
+            "displayName": "A Major 9th",
+            "type": "Major 9th",
+            "notes": [
+                "A",
+                "C#",
+                "E",
+                "G#",
+                "B"
+            ]
+        },
+        "Amin9": {
+            "id": "Amin9",
+            "displayName": "A Minor 9th",
+            "type": "Minor 9th",
+            "notes": [
+                "A",
+                "C",
+                "E",
+                "G",
+                "A#"
+            ]
+        },
+        "A9": {
+            "id": "A9",
+            "displayName": "A Dominant 9th",
+            "type": "Dominant 9th",
+            "notes": [
+                "A",
+                "C#",
+                "E",
+                "G",
+                "B"
+            ]
+        },
+        "A#": {
+            "id": "A#",
+            "displayName": "A# Major",
+            "type": "Major",
+            "notes": [
+                "A#",
+                "D",
+                "F"
+            ]
+        },
+        "A#m": {
+            "id": "A#m",
+            "displayName": "A# Minor",
+            "type": "Minor",
+            "notes": [
+                "A#",
+                "C#",
+                "F"
+            ]
+        },
+        "A#dim": {
+            "id": "A#dim",
+            "displayName": "A# Diminished",
+            "type": "Diminished",
+            "notes": [
+                "A#",
+                "C#",
+                "E"
+            ]
+        },
+        "A#aug": {
+            "id": "A#aug",
+            "displayName": "A# Augmented",
+            "type": "Augmented",
+            "notes": [
+                "A#",
+                "D",
+                "F#"
+            ]
+        },
+        "A#maj7": {
+            "id": "A#maj7",
+            "displayName": "A# Major 7th",
+            "type": "Major 7th",
+            "notes": [
+                "A#",
+                "D",
+                "F",
+                "A"
+            ]
+        },
+        "A#min7": {
+            "id": "A#min7",
+            "displayName": "A# Minor 7th",
+            "type": "Minor 7th",
+            "notes": [
+                "A#",
+                "C#",
+                "F",
+                "G#"
+            ]
+        },
+        "A#7": {
+            "id": "A#7",
+            "displayName": "A# Dominant 7th",
+            "type": "Dominant 7th",
+            "notes": [
+                "A#",
+                "D",
+                "F",
+                "G#"
+            ]
+        },
+        "A#sus2": {
+            "id": "A#sus2",
+            "displayName": "A# Sus2",
+            "type": "Sus2",
+            "notes": [
+                "A#",
+                "C",
+                "F"
+            ]
+        },
+        "A#sus4": {
+            "id": "A#sus4",
+            "displayName": "A# Sus4",
+            "type": "Sus4",
+            "notes": [
+                "A#",
+                "D#",
+                "F"
+            ]
+        },
+        "A#dim7": {
+            "id": "A#dim7",
+            "displayName": "A# Diminished 7th",
+            "type": "Diminished 7th",
+            "notes": [
+                "A#",
+                "C#",
+                "E",
+                "G"
+            ]
+        },
+        "A#maj9": {
+            "id": "A#maj9",
+            "displayName": "A# Major 9th",
+            "type": "Major 9th",
+            "notes": [
+                "A#",
+                "D",
+                "F",
+                "A",
+                "C"
+            ]
+        },
+        "A#min9": {
+            "id": "A#min9",
+            "displayName": "A# Minor 9th",
+            "type": "Minor 9th",
+            "notes": [
+                "A#",
+                "C#",
+                "F",
+                "G#",
+                "B"
+            ]
+        },
+        "A#9": {
+            "id": "A#9",
+            "displayName": "A# Dominant 9th",
+            "type": "Dominant 9th",
+            "notes": [
+                "A#",
+                "D",
+                "F",
+                "G#",
+                "C"
+            ]
+        },
+        "B": {
+            "id": "B",
+            "displayName": "B Major",
+            "type": "Major",
+            "notes": [
+                "B",
+                "D#",
+                "F#"
+            ]
+        },
+        "Bm": {
+            "id": "Bm",
+            "displayName": "B Minor",
+            "type": "Minor",
+            "notes": [
+                "B",
+                "D",
+                "F#"
+            ]
+        },
+        "Bdim": {
+            "id": "Bdim",
+            "displayName": "B Diminished",
+            "type": "Diminished",
+            "notes": [
+                "B",
+                "D",
+                "F"
+            ]
+        },
+        "Baug": {
+            "id": "Baug",
+            "displayName": "B Augmented",
+            "type": "Augmented",
+            "notes": [
+                "B",
+                "D#",
+                "G"
+            ]
+        },
+        "Bmaj7": {
+            "id": "Bmaj7",
+            "displayName": "B Major 7th",
+            "type": "Major 7th",
+            "notes": [
+                "B",
+                "D#",
+                "F#",
+                "A#"
+            ]
+        },
+        "Bmin7": {
+            "id": "Bmin7",
+            "displayName": "B Minor 7th",
+            "type": "Minor 7th",
+            "notes": [
+                "B",
+                "D",
+                "F#",
+                "A"
+            ]
+        },
+        "B7": {
+            "id": "B7",
+            "displayName": "B Dominant 7th",
+            "type": "Dominant 7th",
+            "notes": [
+                "B",
+                "D#",
+                "F#",
+                "A"
+            ]
+        },
+        "Bsus2": {
+            "id": "Bsus2",
+            "displayName": "B Sus2",
+            "type": "Sus2",
+            "notes": [
+                "B",
+                "C#",
+                "F#"
+            ]
+        },
+        "Bsus4": {
+            "id": "Bsus4",
+            "displayName": "B Sus4",
+            "type": "Sus4",
+            "notes": [
+                "B",
+                "E",
+                "F#"
+            ]
+        },
+        "Bdim7": {
+            "id": "Bdim7",
+            "displayName": "B Diminished 7th",
+            "type": "Diminished 7th",
+            "notes": [
+                "B",
+                "D",
+                "F",
+                "G#"
+            ]
+        },
+        "Bmaj9": {
+            "id": "Bmaj9",
+            "displayName": "B Major 9th",
+            "type": "Major 9th",
+            "notes": [
+                "B",
+                "D#",
+                "F#",
+                "A#",
+                "C#"
+            ]
+        },
+        "Bmin9": {
+            "id": "Bmin9",
+            "displayName": "B Minor 9th",
+            "type": "Minor 9th",
+            "notes": [
+                "B",
+                "D",
+                "F#",
+                "A",
+                "C"
+            ]
+        },
+        "B9": {
+            "id": "B9",
+            "displayName": "B Dominant 9th",
+            "type": "Dominant 9th",
+            "notes": [
+                "B",
+                "D#",
+                "F#",
+                "A",
+                "C#"
+            ]
+        },
+        "C": {
+            "id": "C",
+            "displayName": "C Major",
+            "type": "Major",
+            "notes": [
+                "C",
+                "E",
+                "G"
+            ]
+        },
+        "Cm": {
+            "id": "Cm",
+            "displayName": "C Minor",
+            "type": "Minor",
+            "notes": [
+                "C",
+                "D#",
+                "G"
+            ]
+        },
+        "Cdim": {
+            "id": "Cdim",
+            "displayName": "C Diminished",
+            "type": "Diminished",
+            "notes": [
+                "C",
+                "D#",
+                "F#"
+            ]
+        },
+        "Caug": {
+            "id": "Caug",
+            "displayName": "C Augmented",
+            "type": "Augmented",
+            "notes": [
+                "C",
+                "E",
+                "G#"
+            ]
+        },
+        "Cmaj7": {
+            "id": "Cmaj7",
+            "displayName": "C Major 7th",
+            "type": "Major 7th",
+            "notes": [
+                "C",
+                "E",
+                "G",
+                "B"
+            ]
+        },
+        "Cmin7": {
+            "id": "Cmin7",
+            "displayName": "C Minor 7th",
+            "type": "Minor 7th",
+            "notes": [
+                "C",
+                "D#",
+                "G",
+                "A#"
+            ]
+        },
+        "C7": {
+            "id": "C7",
+            "displayName": "C Dominant 7th",
+            "type": "Dominant 7th",
+            "notes": [
+                "C",
+                "E",
+                "G",
+                "A#"
+            ]
+        },
+        "Csus2": {
+            "id": "Csus2",
+            "displayName": "C Sus2",
+            "type": "Sus2",
+            "notes": [
+                "C",
+                "D",
+                "G"
+            ]
+        },
+        "Csus4": {
+            "id": "Csus4",
+            "displayName": "C Sus4",
+            "type": "Sus4",
+            "notes": [
+                "C",
+                "F",
+                "G"
+            ]
+        },
+        "Cdim7": {
+            "id": "Cdim7",
+            "displayName": "C Diminished 7th",
+            "type": "Diminished 7th",
+            "notes": [
+                "C",
+                "D#",
+                "F#",
+                "A"
+            ]
+        },
+        "Cmaj9": {
+            "id": "Cmaj9",
+            "displayName": "C Major 9th",
+            "type": "Major 9th",
+            "notes": [
+                "C",
+                "E",
+                "G",
+                "B",
+                "D"
+            ]
+        },
+        "Cmin9": {
+            "id": "Cmin9",
+            "displayName": "C Minor 9th",
+            "type": "Minor 9th",
+            "notes": [
+                "C",
+                "D#",
+                "G",
+                "A#",
+                "C#"
+            ]
+        },
+        "C9": {
+            "id": "C9",
+            "displayName": "C Dominant 9th",
+            "type": "Dominant 9th",
+            "notes": [
+                "C",
+                "E",
+                "G",
+                "A#",
+                "D"
+            ]
+        },
+        "C#": {
+            "id": "C#",
+            "displayName": "C# Major",
+            "type": "Major",
+            "notes": [
+                "C#",
+                "F",
+                "G#"
+            ]
+        },
+        "C#m": {
+            "id": "C#m",
+            "displayName": "C# Minor",
+            "type": "Minor",
+            "notes": [
+                "C#",
+                "E",
+                "G#"
+            ]
+        },
+        "C#dim": {
+            "id": "C#dim",
+            "displayName": "C# Diminished",
+            "type": "Diminished",
+            "notes": [
+                "C#",
+                "E",
+                "G"
+            ]
+        },
+        "C#aug": {
+            "id": "C#aug",
+            "displayName": "C# Augmented",
+            "type": "Augmented",
+            "notes": [
+                "C#",
+                "F",
+                "A"
+            ]
+        },
+        "C#maj7": {
+            "id": "C#maj7",
+            "displayName": "C# Major 7th",
+            "type": "Major 7th",
+            "notes": [
+                "C#",
+                "F",
+                "G#",
+                "C"
+            ]
+        },
+        "C#min7": {
+            "id": "C#min7",
+            "displayName": "C# Minor 7th",
+            "type": "Minor 7th",
+            "notes": [
+                "C#",
+                "E",
+                "G#",
+                "B"
+            ]
+        },
+        "C#7": {
+            "id": "C#7",
+            "displayName": "C# Dominant 7th",
+            "type": "Dominant 7th",
+            "notes": [
+                "C#",
+                "F",
+                "G#",
+                "B"
+            ]
+        },
+        "C#sus2": {
+            "id": "C#sus2",
+            "displayName": "C# Sus2",
+            "type": "Sus2",
+            "notes": [
+                "C#",
+                "D#",
+                "G#"
+            ]
+        },
+        "C#sus4": {
+            "id": "C#sus4",
+            "displayName": "C# Sus4",
+            "type": "Sus4",
+            "notes": [
+                "C#",
+                "F#",
+                "G#"
+            ]
+        },
+        "C#dim7": {
+            "id": "C#dim7",
+            "displayName": "C# Diminished 7th",
+            "type": "Diminished 7th",
+            "notes": [
+                "C#",
+                "E",
+                "G",
+                "A#"
+            ]
+        },
+        "C#maj9": {
+            "id": "C#maj9",
+            "displayName": "C# Major 9th",
+            "type": "Major 9th",
+            "notes": [
+                "C#",
+                "F",
+                "G#",
+                "C",
+                "D#"
+            ]
+        },
+        "C#min9": {
+            "id": "C#min9",
+            "displayName": "C# Minor 9th",
+            "type": "Minor 9th",
+            "notes": [
+                "C#",
+                "E",
+                "G#",
+                "B",
+                "D"
+            ]
+        },
+        "C#9": {
+            "id": "C#9",
+            "displayName": "C# Dominant 9th",
+            "type": "Dominant 9th",
+            "notes": [
+                "C#",
+                "F",
+                "G#",
+                "B",
+                "D#"
+            ]
+        },
+        "D": {
+            "id": "D",
+            "displayName": "D Major",
+            "type": "Major",
+            "notes": [
+                "D",
+                "F#",
+                "A"
+            ]
+        },
+        "Dm": {
+            "id": "Dm",
+            "displayName": "D Minor",
+            "type": "Minor",
+            "notes": [
+                "D",
+                "F",
+                "A"
+            ]
+        },
+        "Ddim": {
+            "id": "Ddim",
+            "displayName": "D Diminished",
+            "type": "Diminished",
+            "notes": [
+                "D",
+                "F",
+                "G#"
+            ]
+        },
+        "Daug": {
+            "id": "Daug",
+            "displayName": "D Augmented",
+            "type": "Augmented",
+            "notes": [
+                "D",
+                "F#",
+                "A#"
+            ]
+        },
+        "Dmaj7": {
+            "id": "Dmaj7",
+            "displayName": "D Major 7th",
+            "type": "Major 7th",
+            "notes": [
+                "D",
+                "F#",
+                "A",
+                "C#"
+            ]
+        },
+        "Dmin7": {
+            "id": "Dmin7",
+            "displayName": "D Minor 7th",
+            "type": "Minor 7th",
+            "notes": [
+                "D",
+                "F",
+                "A",
+                "C"
+            ]
+        },
+        "D7": {
+            "id": "D7",
+            "displayName": "D Dominant 7th",
+            "type": "Dominant 7th",
+            "notes": [
+                "D",
+                "F#",
+                "A",
+                "C"
+            ]
+        },
+        "Dsus2": {
+            "id": "Dsus2",
+            "displayName": "D Sus2",
+            "type": "Sus2",
+            "notes": [
+                "D",
+                "E",
+                "A"
+            ]
+        },
+        "Dsus4": {
+            "id": "Dsus4",
+            "displayName": "D Sus4",
+            "type": "Sus4",
+            "notes": [
+                "D",
+                "G",
+                "A"
+            ]
+        },
+        "Ddim7": {
+            "id": "Ddim7",
+            "displayName": "D Diminished 7th",
+            "type": "Diminished 7th",
+            "notes": [
+                "D",
+                "F",
+                "G#",
+                "B"
+            ]
+        },
+        "Dmaj9": {
+            "id": "Dmaj9",
+            "displayName": "D Major 9th",
+            "type": "Major 9th",
+            "notes": [
+                "D",
+                "F#",
+                "A",
+                "C#",
+                "E"
+            ]
+        },
+        "Dmin9": {
+            "id": "Dmin9",
+            "displayName": "D Minor 9th",
+            "type": "Minor 9th",
+            "notes": [
+                "D",
+                "F",
+                "A",
+                "C",
+                "D#"
+            ]
+        },
+        "D9": {
+            "id": "D9",
+            "displayName": "D Dominant 9th",
+            "type": "Dominant 9th",
+            "notes": [
+                "D",
+                "F#",
+                "A",
+                "C",
+                "E"
+            ]
+        },
+        "D#": {
+            "id": "D#",
+            "displayName": "D# Major",
+            "type": "Major",
+            "notes": [
+                "D#",
+                "G",
+                "A#"
+            ]
+        },
+        "D#m": {
+            "id": "D#m",
+            "displayName": "D# Minor",
+            "type": "Minor",
+            "notes": [
+                "D#",
+                "F#",
+                "A#"
+            ]
+        },
+        "D#dim": {
+            "id": "D#dim",
+            "displayName": "D# Diminished",
+            "type": "Diminished",
+            "notes": [
+                "D#",
+                "F#",
+                "A"
+            ]
+        },
+        "D#aug": {
+            "id": "D#aug",
+            "displayName": "D# Augmented",
+            "type": "Augmented",
+            "notes": [
+                "D#",
+                "G",
+                "B"
+            ]
+        },
+        "D#maj7": {
+            "id": "D#maj7",
+            "displayName": "D# Major 7th",
+            "type": "Major 7th",
+            "notes": [
+                "D#",
+                "G",
+                "A#",
+                "D"
+            ]
+        },
+        "D#min7": {
+            "id": "D#min7",
+            "displayName": "D# Minor 7th",
+            "type": "Minor 7th",
+            "notes": [
+                "D#",
+                "F#",
+                "A#",
+                "C#"
+            ]
+        },
+        "D#7": {
+            "id": "D#7",
+            "displayName": "D# Dominant 7th",
+            "type": "Dominant 7th",
+            "notes": [
+                "D#",
+                "G",
+                "A#",
+                "C#"
+            ]
+        },
+        "D#sus2": {
+            "id": "D#sus2",
+            "displayName": "D# Sus2",
+            "type": "Sus2",
+            "notes": [
+                "D#",
+                "F",
+                "A#"
+            ]
+        },
+        "D#sus4": {
+            "id": "D#sus4",
+            "displayName": "D# Sus4",
+            "type": "Sus4",
+            "notes": [
+                "D#",
+                "G#",
+                "A#"
+            ]
+        },
+        "D#dim7": {
+            "id": "D#dim7",
+            "displayName": "D# Diminished 7th",
+            "type": "Diminished 7th",
+            "notes": [
+                "D#",
+                "F#",
+                "A",
+                "C"
+            ]
+        },
+        "D#maj9": {
+            "id": "D#maj9",
+            "displayName": "D# Major 9th",
+            "type": "Major 9th",
+            "notes": [
+                "D#",
+                "G",
+                "A#",
+                "D",
+                "F"
+            ]
+        },
+        "D#min9": {
+            "id": "D#min9",
+            "displayName": "D# Minor 9th",
+            "type": "Minor 9th",
+            "notes": [
+                "D#",
+                "F#",
+                "A#",
+                "C#",
+                "E"
+            ]
+        },
+        "D#9": {
+            "id": "D#9",
+            "displayName": "D# Dominant 9th",
+            "type": "Dominant 9th",
+            "notes": [
+                "D#",
+                "G",
+                "A#",
+                "C#",
+                "F"
+            ]
+        }
+    }
+}
